@@ -1,1 +1,1 @@
-# LABook
+# Linear Algebra Book
